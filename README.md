@@ -25,29 +25,23 @@ The goal of this project is to monitor inventory levels, customer orders, produc
 - Developed an operational dashboard to improve data visibility and support decision-making in a simulated supply chain environment.
 
 
-### Operational Dashboard
+## Project Screenshots
 
-<img src="screenshots/Operational_Dashboard.png" length=800 width=600>
+### Operational Dashboard
+![Operational Dashboard](Operational_Dashboard.png)
 
 ### Inventory Analysis by Category
-
-<img src="screenshots/Inventory_Analysis_by_Category.png" length=800 width=600>
+![Inventory Analysis by Category](Inventory_Analysis_by_Category.png)
 
 ### Order Status Analysis
-
-<img src="screenshots/Order_Status_Analysis.png" length=800 width=600>
+![Order Status Analysis](Order_Status_Analysis.png)
 
 ### Inventory Status Analysis
-
-<img src="screenshots/Inventory_Status_Analysis.png" length=800 width=600>
+![Inventory Status Analysis](Inventory_Status_Analysis.png)
 
 ### Most Ordered Products Analysis
+![Most Ordered Products Analysis](Most_Ordered_Products_Analysis.png)
 
-<img src="screenshots/Most_Ordered_Products_Analysis.png" length=800 width=600>
-
-### Power Query Data Transformation
-
-<img src="screenshots/Power_Query_Data_Transformation.png" length=800 width=600>
 
 # Disclaimer
 
