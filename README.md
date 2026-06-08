@@ -41,6 +41,10 @@ The goal of this project is to monitor inventory levels, customer orders, produc
 
 <img src="screenshots/Inventory_Status_Analysis.png" length=800 width=600>
 
+### Most Ordered Products Analysis
+
+<img src="screenshots/Most_Ordered_Products_Analysis.png" length=800 width=600>
+
 ### Power Query Data Transformation
 
 <img src="screenshots/Power_Query_Data_Transformation.png" length=800 width=600>
