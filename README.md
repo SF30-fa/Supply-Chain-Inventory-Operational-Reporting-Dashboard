@@ -28,19 +28,19 @@ The goal of this project is to monitor inventory levels, customer orders, produc
 ## Project Screenshots
 
 ### Operational Dashboard
-![Operational Dashboard](Operational_Dashboard.png)
+![Operational Dashboard](screenshots/Operational_Dashboard.png)
 
 ### Inventory Analysis by Category
-![Inventory Analysis by Category](Inventory_Analysis_by_Category.png)
+![Inventory Analysis by Category](screenshots/Inventory_Analysis_by_Category.png)
 
 ### Order Status Analysis
-![Order Status Analysis](Order_Status_Analysis.png)
+![Order Status Analysis](screenshots/Order_Status_Analysis.png)
 
 ### Inventory Status Analysis
-![Inventory Status Analysis](Inventory_Status_Analysis.png)
+![Inventory Status Analysis](screenshots/Inventory_Status_Analysis.png)
 
 ### Most Ordered Products Analysis
-![Most Ordered Products Analysis](Most_Ordered_Products_Analysis.png)
+![Most Ordered Products Analysis](screenshots/Most_Ordered_Products_Analysis.png)
 
 
 # Disclaimer
