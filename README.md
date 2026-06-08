@@ -1,4 +1,4 @@
-# Supply-Chain-Inventory-Operational-Reporting-Dashboard
+#  Supply Chain Inventory & Operational Reporting Dashboard
 
 This project simulates a distribution center reporting workflow using Microsoft Excel and Power Query.
 The goal of this project is to monitor inventory levels, customer orders, product receptions, stock risks, late orders, and operational priorities through an Excel dashboard.
